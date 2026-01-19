@@ -21,7 +21,7 @@ A web application to allocate classrooms for college and school exams. It uses m
 - JavaScript
 
 ## Live Demo
-
+[Click Here](https://lucky-kitsune-27715e.netlify.app/)
 
 ## Project Made By
 Nikhil Tomar
